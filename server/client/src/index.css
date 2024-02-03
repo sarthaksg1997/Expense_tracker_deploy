@@ -1,0 +1,20 @@
+#root,
+html,
+body {
+  height: 100%;
+  margin: 0;
+}
+
+body {
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHZxSYE3zK9E0U6tjEpKv1ljT8B1CuyQzvcETH4vJWvgn5--Nu0MpUnPNJlg&s");
+}
+
+.login-register-link {
+  text-decoration-line: none;
+  font-family: "system-ui";
+}
+
+.login-register-link:hover {
+  font-weight: 500;
+}
